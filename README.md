@@ -22,3 +22,6 @@ Please note that the proper configuration of the database connection is crucial 
 ## License
 
 Libratica is released under the MIT License. For more details, see the LICENSE.txt file.
+For demonstration purposes, this desktop application includes references to certain books. 
+Please note that the copyrights for these books 
+belong to their respective owners.
