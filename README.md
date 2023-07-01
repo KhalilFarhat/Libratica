@@ -1,11 +1,3 @@
-![10](https://github.com/KhalilFarhat/Libratica/assets/100374222/751bea25-44ec-45ed-9968-4377bfb854c8)
-![9](https://github.com/KhalilFarhat/Libratica/assets/100374222/d29e80d0-57a6-49ec-8b48-dc6d1380f8bb)
-![8](https://github.com/KhalilFarhat/Libratica/assets/100374222/74a1f620-f369-4b70-a134-858f9f40d054)
-![7](https://github.com/KhalilFarhat/Libratica/assets/100374222/443e888f-1fa3-420c-8a90-37e4838bd87a)
-![6](https://github.com/KhalilFarhat/Libratica/assets/100374222/2588fa3f-d1b6-4842-81e3-84c238e2ad51)
-![5](https://github.com/KhalilFarhat/Libratica/assets/100374222/1bbf8231-f223-43de-bce8-d62ec04df626)
-![4](https://github.com/KhalilFarhat/Libratica/assets/100374222/225bb07e-a2dd-4c60-be8d-5b7c1eadce9f)
-![3](https://github.com/KhalilFarhat/Libratica/assets/100374222/71094131-d739-482f-9743-d493d5b93805)
 # Libratica
 Libratica: Powerful library management app. Connects to local MySQL server for secure database. User-friendly interface. Streamlines tasks. Written in C#.
 
@@ -45,19 +37,19 @@ Please note that the copyrights for these books belong to their respective owner
 
 ![2](https://github.com/KhalilFarhat/Libratica/assets/100374222/8d1a31d0-c405-4b26-a4d6-ebe31185b2a4)
 
-![Uploading 3.png…]()
+![3](https://github.com/KhalilFarhat/Libratica/assets/100374222/000c4de3-17f3-4b2f-b59a-8ef7cfea8d62)
 
-![Uploading 4.png…]()
+![4](https://github.com/KhalilFarhat/Libratica/assets/100374222/17c8cf16-698c-48a9-8ce2-bb806f10bf1a)
 
-![Uploading 5.png…]()
+![5](https://github.com/KhalilFarhat/Libratica/assets/100374222/f96192cd-cefa-4ed3-b7c5-a6e2824fb10b)
 
-![Uploading 6.png…]()
+![6](https://github.com/KhalilFarhat/Libratica/assets/100374222/36620061-6de5-4fe4-b275-bb00c0cb8fd8)
 
-![Uploading 7.png…]()
+![7](https://github.com/KhalilFarhat/Libratica/assets/100374222/672dcb95-b15a-443a-8859-3549ee5198ec)
 
-![Uploading 8.png…]()
+![8](https://github.com/KhalilFarhat/Libratica/assets/100374222/28c958f8-aaf4-4fb0-bd6f-9ed0cebd8b59)
 
-![Uploading 9.png…]()
+![9](https://github.com/KhalilFarhat/Libratica/assets/100374222/cc79e600-fb6e-4201-8e09-1771dd87549d)
 
 ![10](https://github.com/KhalilFarhat/Libratica/assets/100374222/11f9876f-3ee3-457a-a5da-7d8bf9451c88)
 
