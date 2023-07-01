@@ -7,6 +7,10 @@ Libratica: Powerful library management app. Connects to local MySQL server for s
 The project file for Libratica has been compressed into multiple files to meet the maximum file size limit of 25 MB imposed by GitHub. To use the application correctly, you need to combine all the files and ensure the proper implementation of the database.
 
 ----------------------------------------------------------------------------------------------------------------------------
+## Future Updates and Improvements
+Libratica is currently in version 1.0 and is a personal project developed by myself. While there is no dedicated team behind it, I am passionate about continuously improving the application and exploring possibilities for additional features and enhancements.
+
+----------------------------------------------------------------------------------------------------------------------------
 ## Installation
 
 1. Download all the compressed files from the repository.
