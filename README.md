@@ -25,6 +25,6 @@ Libratica is released under the MIT License. For more details, see the LICENSE.t
 
 For demonstration purposes, this desktop application includes references to certain books. 
 
-Please note that the copyrights for these books 
+Please note that the copyrights for these books belong to their respective owners.
 
-belong to their respective owners.
+----------------------------------------------------------------------------------------------------------------------------
